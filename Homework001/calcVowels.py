@@ -8,3 +8,4 @@ def calc_vowels():
     print(count)
 
 calc_vowels()
+
